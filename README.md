@@ -1,2 +1,2 @@
 # bridge-eth
-bridge-eth
+weth-busd
